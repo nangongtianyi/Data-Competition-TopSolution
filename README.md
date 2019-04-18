@@ -158,24 +158,28 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 33. DataCastle-城市治理大数据应用创意方案赛   
    Rank1: https://github.com/poteman/DataCastle-Urban-governance-competition
    
-33. Kaggle - Crowdflower Search Results Relevance   
+34. Kaggle - Crowdflower Search Results Relevance   
    Rank1: https://github.com/ChenglongChen/Kaggle_CrowdFlower
 
-34. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
+35. 第三届融360天机智能金融算法挑战赛 - 特征挖掘   
    Rank1: https://github.com/xSupervisedLearning/Rong360_feature_mining_1st_solution
 
-33. 2017 摩拜杯算法挑战赛   
+36. 2017 摩拜杯算法挑战赛   
    Rank3: https://github.com/Magic-Bubble/Mobike
 
-35. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
+37. DataFountain - 招商银行信用卡中心 消费金融场景下的用户购买预测   
    Rank1: https://github.com/sunwantong/China-Merchants-Bank-credit-card-Cente-User-purchase-forecast
    
-34. 天池糖尿病血糖预测比赛 精准医疗   
+38. 天池糖尿病血糖预测比赛 精准医疗   
    Rank24: https://github.com/xingyuezhiji/Diabetes
 
 
-35. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
+39. 第一届西安交通大学人工智能实践大赛（2018AI实践大赛--图片文字识别）   
    Rank1: https://github.com/yinchangchang/ocr_densenet
+
+
+40. 2019 KaggleDays Paris offline competition（Kaggle产品销售额预测比赛优胜方案）   
+   Rank1: https://github.com/mxbi/kaggledays-paris
 
 
 ## 二、NLP：
@@ -229,6 +233,11 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
    Rank3：https://github.com/312shan/rc_tf
 
+11. 2018 kaggle quora insincere questions classification
+   Rank1: https://www.kaggle.com/c/quora-insincere-questions-classification/discussion/80568
+   Rank13: https://mp.weixin.qq.com/s/DD-BOtPbGCXvxfFxL-qOgg
+   Rank153: https://github.com/jetou/kaggle-qiqc
+
 ### 三、CV：
 1. Kaggle-TGS
    Rank1: http://t.cn/EzkDlOC  
@@ -236,7 +245,6 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
           http://t.cn/EzuPvfp   
    Rank9: http://t.cn/EznzvYv  
    Rank11:https://github.com/iasawseen/Kaggle-TGS-salt-solution
-   
    Rank15:https://github.com/adam9500370/Kaggle-TGS
    Rank22: http://t.cn/EzYkR6i  
    Rank56 https://github.com/Gary-Deeplearning/TGS-Salt
@@ -285,6 +293,13 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 
 12. SpaceNet Challenge Round 4: Off-Nadir Buildings（SpaceNet挑战卫星图片建筑物识别）   
    Rank*: https://github.com/SpaceNetChallenge/SpaceNet_Off_Nadir_Solutions   
+
+13. Kaggle Humpback Whale Identification Challenge（Kaggle座头鲸识别比赛）   
+   Rank1: https://github.com/earhian/Humpback-Whale-Identification-1st-   
+   Rank7: https://medium.com/@ducha.aiki/thanks-radek-7th-place-solution-to-hwi-2019-competition-738624e4c885   
+   
+
+   
 
 ### 四、大佬的Github：
 1. 植物 ：https://github.com/plantsgo 
